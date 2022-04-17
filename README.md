@@ -1,5 +1,7 @@
 # webpack-pc-mobile
 
+create in 2018.
+
 基于 webpack 的 PC 端和 mobile 端开发以及生产环境的搭建
 
 # 运行
